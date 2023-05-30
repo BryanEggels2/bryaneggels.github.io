@@ -22,7 +22,7 @@ skills:
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Our software is hosted on Linux servers."
+  summary: "Our software is hosted on Linux servers. Comfortable with basic Linux usage, creating bash scripts etc."
 
 - name: Git
   logo: /images/sections/skills/git.png
@@ -37,7 +37,3 @@ skills:
   logo: /images/sections/skills/kubernetes.png
   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
   url: "https://kubernetes.io/"
-
-
-
-
